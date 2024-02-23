@@ -5,6 +5,6 @@
 <h1>🛠 Built With</h1>
 <img src="https://skillicons.dev/icons?i=,html,css,vscode,javascript"/>
 <h1>Task1 Output</h1>
-![image](https://github.com/Yogaprasadmk/Codsoft_WebDevelopment_Internship_Javascript/assets/120255515/878f8d71-65d0-4e5b-a4e4-619b0da4ce29)
+<img src ="https://github.com/Yogaprasadmk/Codsoft_WebDevelopment_Internship_Javascript/assets/120255515/878f8d71-65d0-4e5b-a4e4-619b0da4ce29"/>
 
 
